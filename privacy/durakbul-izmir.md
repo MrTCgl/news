@@ -1,6 +1,6 @@
 # DurakBul İzmir – Privacy Policy
 
-Effective date: 24 November 2026 · App: DurakBul İzmir (Android, package `com.durakbul.izmir`) and the website izmir.durakbul.com · Developer: NabKap · Contact: nabkap.app@gmail.com
+Effective date: 24 November 2026 · App: DurakBul İzmir (Android, package `com.durakbul.izmir`) and the website izmir.durakbul.com · Developer: MrTCgL (NabKap) · Contact: nabkap.app@gmail.com
 
 DurakBul İzmir shows bus stops, timetables and live bus, ferry and rail information for İzmir. It is an independent app and is **not affiliated with any government body**; data comes from public open-data sources listed at https://izmir.durakbul.com/kaynaklar.
 
@@ -48,7 +48,7 @@ If this policy changes, the new version is published at this address and the eff
 
 # DurakBul İzmir – Gizlilik Politikası (TR)
 
-Yürürlük tarihi: 24 Kasım 2026 · Uygulama: DurakBul İzmir (Android, paket `com.durakbul.izmir`) ve izmir.durakbul.com sitesi · Geliştirici: NabKap · İletişim: nabkap.app@gmail.com
+Yürürlük tarihi: 24 Kasım 2026 · Uygulama: DurakBul İzmir (Android, paket `com.durakbul.izmir`) ve izmir.durakbul.com sitesi · Geliştirici: MrTCgL (NabKap) · İletişim: nabkap.app@gmail.com
 
 DurakBul İzmir; İzmir'deki durakları, sefer saatlerini ve canlı otobüs, vapur ve raylı sistem bilgilerini gösterir. Bağımsız bir uygulamadır, **hiçbir kamu kurumuyla bağlantısı yoktur**; veriler https://izmir.durakbul.com/kaynaklar sayfasında listelenen herkese açık kaynaklardan gelir.
 
