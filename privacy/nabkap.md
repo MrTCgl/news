@@ -1,6 +1,6 @@
 # NabKap – Privacy Policy
 
-Effective date: 24 November 2026 · App: NabKap (Android, package `com.nabkap.app`) · Developer: MrTCgL App · Contact: nabkap.app@gmail.com
+Effective date: 24 November 2026 · App: NabKap (Android, package `com.nabkap.app`) · Developer: MrTCgL · Contact: nabkap.app@gmail.com
 
 NabKap is a free app for catching and learning words you hear in a foreign language. There is **no account and no sign-up**. We do not run a server that stores your data, and we never sell your data or use it for advertising.
 
@@ -48,7 +48,7 @@ If this policy changes, the new version is published at this address and the eff
 
 # NabKap – Gizlilik Politikası (TR)
 
-Yürürlük tarihi: 24 Kasım 2026 · Uygulama: NabKap (Android, paket `com.nabkap.app`) · Geliştirici: MrTCgL App · İletişim: nabkap.app@gmail.com
+Yürürlük tarihi: 24 Kasım 2026 · Uygulama: NabKap (Android, paket `com.nabkap.app`) · Geliştirici: MrTCgL · İletişim: nabkap.app@gmail.com
 
 NabKap, yabancı dilde dinlerken duyduğun kelimeyi kapıp öğrenmen için yapılmış ücretsiz bir uygulamadır. **Hesap ve üyelik yoktur.** Verilerini saklayan bir sunucumuz yoktur; verilerin satılmaz ve reklam için kullanılmaz.
 
