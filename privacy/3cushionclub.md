@@ -1,6 +1,6 @@
 # 3 Cushion Club: Billiards – Privacy Policy
 
-**Effective date:** 24 November 2026 · **App:** 3 Cushion Club: Billiards (Android, package `com.mrtcgl.threecushionclub`) · **Developer:** MrTCgL · **Contact:** nabkap.app@gmail.com
+**Effective date:** 24 November 2026 · **App:** 3 Cushion Club: Billiards (Android, package `com.mrtcgl.threecushionclub`) · **Developer:** MrTCgL · **Contact:** mrtcgl.apps@gmail.com
 
 This policy explains what data the game collects, why, where it is kept and how you can delete it.
 
@@ -40,7 +40,7 @@ The game does not use your camera, microphone, contacts, photos or precise locat
 ## 7. Retention and deletion
 - On-device data stays until you uninstall the game or clear its data.
 - Online data is kept while your account is active. If an account is inactive for 2 years we may delete it.
-- **Delete your data:** e-mail **nabkap.app@gmail.com** with the subject "Delete my 3 Cushion Club data" from the address of your Google account (or include your in-game nickname). We delete your online account, profile, rating, statistics and friends list within 30 days. Data held by Unity Ads is governed by Unity's policy.
+- **Delete your data:** e-mail **mrtcgl.apps@gmail.com** with the subject "Delete my 3 Cushion Club data" from the address of your Google account (or include your in-game nickname). We delete your online account, profile, rating, statistics and friends list within 30 days. Data held by Unity Ads is governed by Unity's policy.
 
 We do not sell your personal data.
 
@@ -51,13 +51,13 @@ The game is intended for players **aged 13 and over** and is not directed at chi
 We will update this page when the game changes how it uses data and change the effective date above.
 
 ## 10. Contact
-MrTCgL · nabkap.app@gmail.com
+MrTCgL · mrtcgl.apps@gmail.com
 
 ---
 
 # 3 Cushion Club: Billiards – Gizlilik Politikası
 
-**Yürürlük tarihi:** 24 Kasım 2026 · **Uygulama:** 3 Cushion Club: Billiards (Android, `com.mrtcgl.threecushionclub`) · **Geliştirici:** MrTCgL · **İletişim:** nabkap.app@gmail.com
+**Yürürlük tarihi:** 24 Kasım 2026 · **Uygulama:** 3 Cushion Club: Billiards (Android, `com.mrtcgl.threecushionclub`) · **Geliştirici:** MrTCgL · **İletişim:** mrtcgl.apps@gmail.com
 
 ## 1. Yalnızca cihazda saklanan veriler
 Antrenman ve sanal rakibe karşı maçlar hesap gerektirmez. Takma adın, ayarların (seviye, masa, ses, titreşim, dil), çevrimdışı istatistiklerin, reklam izni seçimin ve "reklamları kaldır" durumun yalnızca telefonunda saklanır; oyunu silince silinir.
@@ -92,7 +92,7 @@ Kamera, mikrofon, rehber, fotoğraflar veya hassas konum kullanılmaz.
 ## 7. Saklama ve silme
 - Cihazdaki veriler oyunu silene veya verilerini temizleyene kadar kalır.
 - Online veriler hesabın aktif olduğu sürece saklanır; 2 yıl kullanılmayan hesaplar silinebilir.
-- **Verilerini silmek için:** Google hesabının e-postasından (veya oyundaki takma adını yazarak) **nabkap.app@gmail.com** adresine "Delete my 3 Cushion Club data" konulu e-posta gönder. Online hesabın, profilin, puanın, istatistiklerin ve arkadaş listen 30 gün içinde silinir. Unity Ads'in tuttuğu veriler Unity'nin politikasına tabidir.
+- **Verilerini silmek için:** Google hesabının e-postasından (veya oyundaki takma adını yazarak) **mrtcgl.apps@gmail.com** adresine "Delete my 3 Cushion Club data" konulu e-posta gönder. Online hesabın, profilin, puanın, istatistiklerin ve arkadaş listen 30 gün içinde silinir. Unity Ads'in tuttuğu veriler Unity'nin politikasına tabidir.
 
 Kişisel verilerini satmayız.
 
@@ -103,4 +103,4 @@ Oyun **13 yaş ve üzeri** oyuncular içindir; 13 yaş altı çocuklara yönelik
 Veri kullanımı değişirse bu sayfa ve yürürlük tarihi güncellenir.
 
 ## 10. İletişim
-MrTCgL · nabkap.app@gmail.com
+MrTCgL · mrtcgl.apps@gmail.com
