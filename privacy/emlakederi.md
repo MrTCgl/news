@@ -1,6 +1,6 @@
 # EMLAKederi – Privacy Policy
 
-Effective date: 24 November 2026 · App: EMLAKederi (emlakederi.com and its Android app) · Developer: NabKap (Murat Çağıl) · Contact: nabkap.app@gmail.com
+Effective date: 24 November 2026 · App: EMLAKederi (emlakederi.com and its Android app) · Developer: MrTCgL · Contact: nabkap.app@gmail.com
 
 EMLAKederi estimates the new-construction cost of a building and, using a location factor, an estimated sale value. It needs no account.
 
@@ -53,7 +53,7 @@ Updates are published at this address with a new effective date.
 
 # EMLAKederi – Gizlilik Politikası (TR)
 
-Yürürlük tarihi: 24 Kasım 2026 · Uygulama: EMLAKederi (emlakederi.com ve Android uygulaması) · Geliştirici: NabKap (Murat Çağıl) · İletişim: nabkap.app@gmail.com
+Yürürlük tarihi: 24 Kasım 2026 · Uygulama: EMLAKederi (emlakederi.com ve Android uygulaması) · Geliştirici: MrTCgL · İletişim: nabkap.app@gmail.com
 
 EMLAKederi bir yapının yeni yapım maliyetini ve konum çarpanıyla tahmini satış bedelini hesaplar. Hesap (üyelik) gerekmez.
 
