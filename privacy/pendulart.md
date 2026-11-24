@@ -1,6 +1,6 @@
 # PendulArt – Privacy Policy
 
-Effective date: 24 November 2026 · App: PendulArt (Android, package `com.mrtcgl.pendulart`) · Developer: NabKap · Contact: nabkap.app@gmail.com
+Effective date: 24 November 2026 · App: PendulArt (Android, package `com.mrtcgl.pendulart`) · Developer: MrTCgL · Contact: nabkap.app@gmail.com
 
 PendulArt lets you create abstract paintings with a simulated paint pendulum.
 
@@ -42,7 +42,7 @@ nabkap.app@gmail.com
 
 # PendulArt – Gizlilik Politikası (TR)
 
-Yürürlük tarihi: 24 Kasım 2026 · Uygulama: PendulArt (Android, `com.mrtcgl.pendulart`) · Geliştirici: NabKap · İletişim: nabkap.app@gmail.com
+Yürürlük tarihi: 24 Kasım 2026 · Uygulama: PendulArt (Android, `com.mrtcgl.pendulart`) · Geliştirici: MrTCgL · İletişim: nabkap.app@gmail.com
 
 **Toplanan veri: Yok.** PendulArt hiçbir kişisel veri toplamaz, göndermez, satmaz veya paylaşmaz. Hesap, reklam, analiz, izleme ya da üçüncü taraf SDK yoktur. Uygulama internete bağlanmaz ve İnternet izni istemez.
 
