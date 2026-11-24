@@ -1,6 +1,6 @@
 # TRaLIST – Privacy Policy
 
-Effective date: 24 November 2026 · App: TRaLIST (Android, package `com.tralist.mobile`) · Developer: NabKap · Contact: nabkap.app@gmail.com
+Effective date: 24 November 2026 · App: TRaLIST (Android, package `com.tralist.mobile`) · Developer: MrTCgL · Contact: nabkap.app@gmail.com
 
 TRaLIST is a Borsa Istanbul stock screening and analysis app. It uses the same account and server as the website temelrasyoanalist.com.
 
@@ -56,7 +56,7 @@ If this policy changes, the new version is published at this address and the eff
 
 # TRaLIST – Gizlilik Politikası (TR)
 
-Yürürlük tarihi: 24 Kasım 2026 · Uygulama: TRaLIST (Android, paket `com.tralist.mobile`) · Geliştirici: NabKap · İletişim: nabkap.app@gmail.com
+Yürürlük tarihi: 24 Kasım 2026 · Uygulama: TRaLIST (Android, paket `com.tralist.mobile`) · Geliştirici: MrTCgL · İletişim: nabkap.app@gmail.com
 
 TRaLIST, Borsa İstanbul hisseleri için tarama ve analiz uygulamasıdır. temelrasyoanalist.com web sitesiyle aynı hesabı ve sunucuyu kullanır.
 
